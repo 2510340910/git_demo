@@ -15,3 +15,4 @@ hello atguigu! hello git! master merge test
 hello atguigu! hello git! review hot-fix merge test01
 hello atguigu! hello git! hot-fix merge test
 本行为pull命令做出的描述改变！！！！！
+改行是为了验证SSH的免密操作 ---pull命令！！！！
